@@ -1,0 +1,26 @@
+name: TM test 364k
+on:
+  workflow_dispatch:
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probar acceso a Transfermarkt
+        run: |
+          UA='Mozilla/5.0 (Linux; Android 13; Mi 9T Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36'
+          BASE=https://www.transfermarkt.com
+          echo "TM_IP_RUNNER $(curl -s https://api.ipify.org)"
+          C=$(curl -s -o liga.html -w '%{http_code}' -A "$UA" -H 'Accept-Language: en-US,en;q=0.9' "$BASE/liga-profesional-de-futbol/startseite/wettbewerb/AR1N")
+          echo "TM_LIGA_HTTP $C bytes $(wc -c < liga.html)"
+          L=$(grep -o '/[^"/]*/startseite/verein/[0-9]*' liga.html | head -1)
+          echo "TM_CLUB_LINK $L"
+          SLUG=$(echo "$L" | cut -d/ -f2)
+          CID=$(echo "$L" | cut -d/ -f5)
+          sleep 3
+          C2=$(curl -s -o kader.html -w '%{http_code}' -A "$UA" -H 'Accept-Language: en-US,en;q=0.9' "$BASE/$SLUG/kader/verein/$CID/plus/1")
+          echo "TM_PLANTEL_HTTP $C2 bytes $(wc -c < kader.html) items $(grep -c 'class="items"' kader.html)"
+          P=$(grep -o 'data-src="https://[^"]*portrait[^"]*"' kader.html | head -1 | sed 's/data-src="//; s/"$//')
+          echo "TM_FOTO_URL $P"
+          sleep 3
+          C3=$(curl -s -o foto.img -w '%{http_code}' -A "$UA" "$P")
+          echo "TM_FOTO_HTTP $C3 bytes $(wc -c < foto.img)"
