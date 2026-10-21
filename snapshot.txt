@@ -1,5 +1,5 @@
 PES6TM1
-creado	2026-10-20
+creado	2026-10-21
 L	AR1N
 C	209	club-atletico-river-plate	CA River Plate
 J	1138089	Santiago Beltrán	41	Goalkeeper		11000000	22	191	left	1	1	negro	ninguno	L75 72.2 -> piel 1; pelo negro (frac 0.64); barba ratio 0.13 -> ninguno; ojos (51,57) d 28 conf 0.52	0
@@ -240,7 +240,7 @@ J	518354	Alfio Oviedo	19	Centre-Forward		300000	30	181	right	1	2	negro	ninguno	L
 C	288	club-estudiantes-de-la-plata	Club Estudiantes de La Plata
 J	58088	Fernando Muslera	16	Goalkeeper		700000	40	190	right	1	2	negro	ninguno	L75 68.5 -> piel 2; pelo negro (frac 0.71); barba ratio 0.04 -> ninguno; ojos (55,59) d 33 conf 0.52	0
 J	1050051	Fabricio Iacovich	1	Goalkeeper		500000	24	198	left	1	1	castano	ninguno	L75 72.4 -> piel 1; pelo castano (frac 0.59); barba ratio 0.24 -> ninguno; ojos (52,55) d 30 conf 0.52	0
-J	1181926	Rodrigo Borzone	12	Goalkeeper		-1	21	191	right	1	1	castano	ninguno	L75 74.3 -> piel 1; pelo castano (frac 0.74); barba ratio 0.35 -> ninguno; ojos (49,55) d 30 conf 0.52	0
+J	1181926	Rodrigo Borzone	12	Goalkeeper		-1	22	191	right	1	1	castano	ninguno	L75 74.3 -> piel 1; pelo castano (frac 0.74); barba ratio 0.35 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	993645	Tomás Palacios	24	Centre-Back	Inter Milan	8000000	23	196	left	1	1		ninguno	L75 83.7 -> piel 1; pelo null (frac 0.09); barba ratio 0.25 -> ninguno; ojos (45,61) d 30 conf 0.52	0
 J	959208	Santiago Núñez	4	Centre-Back		2000000	26	186	right	1	2	negro	ninguno	L75 68.0 -> piel 2; pelo negro (frac 0.59); barba ratio 0.22 -> ninguno; ojos (49,62) d 33 conf 0.53	0
 J	113130	Leandro González Pírez	14	Centre-Back		350000	34	185	right	1	4	negro	barba_muy_corta	L75 44.9 -> piel 4; pelo negro (frac 0.63); barba ratio 0.69 -> barba_muy_corta; ojos (48,54) d 28 conf 0.52	0
@@ -857,4 +857,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	06a2eadd46ab4d4d125efc69230a37a9879f3ce47dc61d52f735b4161f92d49a
+hash	45cb1a5a4c6b5731da742fd1d7f925f272a50b1fd9e5896d9c822dcc673b461e
