@@ -1,5 +1,5 @@
 PES6TM1
-creado	2026-10-21
+creado	2026-10-22
 L	AR1N
 C	209	club-atletico-river-plate	CA River Plate
 J	1138089	Santiago Beltrán	41	Goalkeeper		11000000	22	191	left	1	1	negro	ninguno	L75 72.2 -> piel 1; pelo negro (frac 0.64); barba ratio 0.13 -> ninguno; ojos (51,57) d 28 conf 0.52	0
@@ -143,7 +143,6 @@ J	868501	Gonzalo Alassia	62	Central Midfield		25000	22	182	left	1	2	castano	barb
 J	1296404	Facundo Gulli	10	Attacking Midfield		2500000	21	178	right	1	3	negro	ninguno	L75 59.8 -> piel 3; pelo negro (frac 0.79); barba ratio 0.26 -> ninguno; ojos (49,64) d 30 conf 0.53	0
 J	728221	Facundo Farías	38	Attacking Midfield	Club Estudiantes de La Plata	2500000	24	175	right	1	1	negro	ninguno	L75 77.6 -> piel 1; pelo negro (frac 0.63); barba ratio 0.14 -> ninguno; ojos (49,58) d 30 conf 0.52	0
 J	503377	Nahuel Barrios	28	Left Winger		900000	28	156	right	1	3	negro	barba_muy_corta	L75 59.5 -> piel 3; pelo negro (frac 0.53); barba ratio 0.80 -> barba_muy_corta; ojos (52,61) d 30 conf 0.53	0
-J	984692	Matías Reali	11	Right Winger		1500000	28	165	both	1	1	castano	ninguno	L75 72.8 -> piel 1; pelo castano (frac 0.39); barba ratio 0.19 -> ninguno; ojos (52,52) d 33 conf 0.52	0
 J	1296393	Agustín Ladstatter	14	Right Winger		400000	21	174	left	1	1	castano	ninguno	L75 79.1 -> piel 1; pelo castano (frac 0.66); barba ratio 0.08 -> ninguno; ojos (52,59) d 33 conf 0.53	0
 J	534615	Juan Pablo Álvarez	22	Right Winger		250000	30	178	right	1	1	castano	barba_muy_corta	L75 77.0 -> piel 1; pelo castano (frac 0.84); barba ratio 0.54 -> barba_muy_corta; ojos (47,47) d 25 conf 0.52	0
 J	267882	Ezequiel Cerutti	7	Right Winger		150000	34	169	right	1	3	negro	barba_muy_corta	L75 63.9 -> piel 3; pelo negro (frac 0.71); barba ratio 0.58 -> barba_muy_corta; ojos (48,62) d 28 conf 0.53	0
@@ -226,7 +225,7 @@ J	1174943	Jabes Saralegui	10	Central Midfield	CA Boca Juniors	3000000	23	181	lef
 J	1249779	Santiago González	27	Central Midfield		2300000	23	182	right	1	1	negro	ninguno	L75 78.5 -> piel 1; pelo negro (frac 0.59); barba ratio 0.08 -> ninguno; ojos (52,55) d 30 conf 0.53	0
 J	1207586	Nicolás Dubersarsky	16	Central Midfield	Austin FC	1500000	21	188	right	1	1	castano	ninguno	L75 75.4 -> piel 1; pelo castano (frac 0.54); barba ratio 0.17 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	912009	Simón Rivero	7	Central Midfield	CA Boca Juniors	300000	23	172	left	1	3	negro	ninguno	L75 63.2 -> piel 3; pelo negro (frac 0.81); barba ratio 0.16 -> ninguno; ojos (49,67) d 30 conf 0.52	0
-J	1379292	Ignacio Peluffo	50	Right Midfield		75000	20	178	right	0	0				0
+J	1379292	Ignacio Peluffo	50	Right Midfield		75000	20	184	right	0	0				0
 J	840774	Sebastián Medina	21	Left Midfield		350000	26	177	left	1	1	negro	ninguno	L75 76.0 -> piel 1; pelo negro (frac 0.69); barba ratio 0.18 -> ninguno; ojos (48,57) d 28 conf 0.53	0
 J	1231128	Tiago Serrago	11	Attacking Midfield	CA River Plate	1700000	22	175	right	0	0				0
 J	281405	Gonzalo Martínez	28	Attacking Midfield		500000	33	172	left	1	1	negro	ninguno	L75 77.7 -> piel 1; pelo negro (frac 0.81); barba ratio 0.33 -> ninguno; ojos (54,59) d 28 conf 0.53	0
@@ -323,7 +322,7 @@ J	12249	Éver Banega	-	Central Midfield		400000	38	174	right	1	3	negro	barba_muy
 J	575999	Aarón Molinas	10	Attacking Midfield		3200000	26	175	right	1	3	negro	ninguno	L75 60.8 -> piel 3; pelo negro (frac 0.79); barba ratio 0.21 -> ninguno; ojos (52,61) d 30 conf 0.53	0
 J	356089	David Barbona	19	Attacking Midfield		450000	31	176	right	1	2	negro	barba_muy_corta	L75 64.2 -> piel 2; pelo negro (frac 0.70); barba ratio 0.64 -> barba_muy_corta; ojos (49,59) d 33 conf 0.53	0
 J	1253294	Mateo Aguiar	23	Attacking Midfield		225000	19	168		1	3	negro	ninguno	L75 60.4 -> piel 3; pelo negro (frac 0.83); barba ratio 0.14 -> ninguno; ojos (52,59) d 33 conf 0.53	0
-J	912504	Nicolás Palavecino	-	Attacking Midfield		150000	23	186	right	0	0				0
+J	912504	Nicolás Palavecino	20	Attacking Midfield		150000	23	186	right	0	0				0
 J	1173444	Jeremías Lucco	26	Attacking Midfield	Club Atlético Belgrano	150000	20	172	right	1	1	castano	ninguno	L75 75.6 -> piel 1; pelo castano (frac 0.91); barba ratio 0.35 -> ninguno; ojos (49,55) d 33 conf 0.53	0
 J	1074965	Maximiliano Porcel	22	Attacking Midfield	CA Vélez Sarsfield	75000	20	178	left	1	3	gris	ninguno	L75 63.6 -> piel 3; pelo gris (frac 0.56); barba ratio 0.24 -> ninguno; ojos (61,61) d 26 conf 0.52	0
 J	581321	Juan Gutiérrez	24	Left Winger		2000000	24	178	right	1	4	negro	ninguno	L75 54.4 -> piel 4; pelo negro (frac 1.00); barba ratio -0.04 -> ninguno; ojos (52,59) d 33 conf 0.51	0
@@ -590,8 +589,8 @@ J	833783	Facundo Mansilla	6	Centre-Back		600000	27	190	left	1	1	castano	ninguno	
 J	260377	Felipe Aguilar	21	Centre-Back		200000	33	191	right	1	3		barba_muy_corta	L75 62.2 -> piel 3; pelo null (frac 0.10); barba ratio 0.53 -> barba_muy_corta; ojos (45,58) d 30 conf 0.52	0
 J	1130336	Yuri Casermeiro	17	Centre-Back		175000	24	190	right	0	0				0
 J	984882	Juan Pablo Pignani	42	Centre-Back	Club Atlético Platense	125000	25	190	right	1	1	castano	ninguno	L75 88.8 -> piel 1; pelo castano (frac 0.86); barba ratio 0.08 -> ninguno; ojos (53,55) d 26 conf 0.52	0
+J	1402284	Nicolás Garrido	32	Centre-Back	CA Independiente II	50000	21	0	left	1	2	negro	ninguno	L75 65.9 -> piel 2; pelo negro (frac 0.80); barba ratio 0.24 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	1170351	Lucas Bernabéu	26	Centre-Back		-1	22	190	left	0	0				0
-J	1402284	Nicolás Garrido	32	Centre-Back	CA Independiente II	-1	21	0	left	1	2	negro	ninguno	L75 65.9 -> piel 2; pelo negro (frac 0.80); barba ratio 0.24 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	567663	Darío Cáceres	23	Left-Back		200000	28	174	left	0	0				0
 J	642521	Leonardo Marchi	3	Left-Back		25000	30	180	left	1	1	castano	barba_muy_corta	L75 76.4 -> piel 1; pelo castano (frac 0.17); barba ratio 0.54 -> barba_muy_corta; ojos (59,51) d 28 conf 0.53	0
 J	568551	Santiago Moyano	33	Right-Back		600000	29	175	right	1	3		barba_muy_corta	L75 58.1 -> piel 3; pelo null (frac 0.03); barba ratio 0.73 -> barba_muy_corta; ojos (51,68) d 28 conf 0.51	0
@@ -599,6 +598,7 @@ J	880025	Fernando Martínez	20	Right-Back		400000	26	173	right	0	0				0
 J	953947	José Gómez	13	Right-Back		150000	26	173	right	0	0				0
 J	368801	Matías Vera	22	Defensive Midfield		700000	30	170	right	1	1	castano	ninguno	L75 78.8 -> piel 1; pelo castano (frac 0.53); barba ratio 0.13 -> ninguno; ojos (48,51) d 28 conf 0.53	0
 J	891681	Tiago Cravero	5	Defensive Midfield	Club Atlético Belgrano	250000	24	176	right	1	3	castano	ninguno	L75 59.1 -> piel 3; pelo castano (frac 0.17); barba ratio 0.12 -> ninguno; ojos (48,54) d 28 conf 0.52	0
+J	1377871	Tiziano Ramirez	41	Defensive Midfield		50000	18	0		0	0				0
 J	688778	Lucas González	18	Central Midfield	Defensa y Justicia	1300000	26	169	right	1	1	negro	ninguno	L75 80.5 -> piel 1; pelo negro (frac 0.91); barba ratio 0.44 -> ninguno; ojos (42,54) d 28 conf 0.53	0
 J	439627	Fernando Juárez	8	Central Midfield	Club Atlético Platense	600000	28	177	right	1	1	negro	ninguno	L75 84.8 -> piel 1; pelo negro (frac 0.75); barba ratio 0.15 -> ninguno; ojos (49,58) d 30 conf 0.52	0
 J	912696	Juan Cardozo	55	Central Midfield	AA Argentinos Juniors	200000	22	175	right	1	1	negro	ninguno	L75 72.4 -> piel 1; pelo negro (frac 0.89); barba ratio 0.13 -> ninguno; ojos (55,63) d 26 conf 0.51	0
@@ -695,6 +695,7 @@ J	907834	Gonzalo Ríos	11	Attacking Midfield		2000000	27	172	right	1	2	negro	nin
 J	668550	Luis Sequeira	77	Attacking Midfield	CA Talleres	500000	23	172	right	1	2	negro	ninguno	L75 68.4 -> piel 2; pelo negro (frac 0.82); barba ratio 0.12 -> ninguno; ojos (49,61) d 30 conf 0.52	0
 J	1110580	Diego Crego	27	Left Winger		250000	29	173	left	1	2	castano	ninguno	L75 67.6 -> piel 2; pelo castano (frac 0.40); barba ratio 0.32 -> ninguno; ojos (55,55) d 33 conf 0.51	0
 J	1013922	Rodrigo Atencio	19	Right Winger	Sport Club do Recife	2000000	24	175	left	1	2	negro	ninguno	L75 66.7 -> piel 2; pelo negro (frac 0.67); barba ratio -0.03 -> ninguno; ojos (45,59) d 35 conf 0.51	0
+J	984692	Matías Reali	-	Right Winger	CA San Lorenzo de Almagro	1500000	28	165	both	1	1	castano	ninguno	L75 72.8 -> piel 1; pelo castano (frac 0.39); barba ratio 0.19 -> ninguno; ojos (52,52) d 33 conf 0.52	0
 J	926365	Luis Díaz	23	Right Winger		550000	22	177	right	1	4	castano	barba_muy_corta	L75 32.1 -> piel 4; pelo castano (frac 0.20); barba ratio 0.70 -> barba_muy_corta; ojos (49,55) d 30 conf 0.52	0
 J	912306	Alessandro Riep	20	Right Winger	Audax Italiano	350000	23	174	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.73); barba ratio 0.10 -> ninguno; ojos (52,58) d 30 conf 0.51	0
 J	442231	Maximiliano Salas	17	Centre-Forward	CA River Plate	4000000	28	174	left	1	3	negro	barba_muy_corta	L75 58.4 -> piel 3; pelo negro (frac 0.86); barba ratio 0.48 -> barba_muy_corta; ojos (49,52) d 30 conf 0.52	0
@@ -755,7 +756,7 @@ J	441385	Gonzalo Maroni	33	Attacking Midfield	CA Boca Juniors	2000000	27	170	rig
 J	697405	Iván Tapia	10	Attacking Midfield		1200000	27	176	right	1	3	castano	barba_corta	L75 57.5 -> piel 3; pelo castano (frac 0.78); barba ratio 0.81 -> barba_corta; ojos (45,66) d 35 conf 0.52	0
 J	418859	Rodrigo Bogarín	28	Attacking Midfield		350000	29	182	right	1	3	negro	barba_muy_corta	L75 59.8 -> piel 3; pelo negro (frac 0.81); barba ratio 0.48 -> barba_muy_corta; ojos (55,72) d 33 conf 0.52	0
 J	891804	Manuel Duarte	18	Attacking Midfield		200000	25	171	right	1	2		ninguno	L75 68.8 -> piel 2; pelo null (frac 0.11); barba ratio 0.32 -> ninguno; ojos (52,59) d 33 conf 0.52	0
-J	1322309	Tomás Lavezzi	36	Attacking Midfield		-1	21	167		0	0				0
+J	1322309	Tomás Lavezzi	36	Attacking Midfield		100000	21	167		0	0				0
 J	457218	Norberto Briasco	11	Right Winger	CA Boca Juniors	200000	30	186	both	1	1	castano	ninguno	L75 73.0 -> piel 1; pelo castano (frac 0.34); barba ratio 0.03 -> ninguno; ojos (55,52) d 33 conf 0.51	0
 J	1298505	Enzo Taborda	24	Right Winger	CA Independiente	100000	21	167	right	0	0				0
 J	538880	Facundo Bruera	77	Centre-Forward	CA San Lorenzo de Almagro	1800000	28	194	right	1	1	castano	ninguno	L75 78.0 -> piel 1; pelo castano (frac 0.57); barba ratio -0.03 -> ninguno; ojos (53,53) d 26 conf 0.52	0
@@ -857,4 +858,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	45cb1a5a4c6b5731da742fd1d7f925f272a50b1fd9e5896d9c822dcc673b461e
+hash	6f8b91be6ad0a4f1dbe54572d5bc7a4c6173b980ee4811d2df7060743ff5c8ba
