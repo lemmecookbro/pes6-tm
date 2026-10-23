@@ -1,5 +1,5 @@
 PES6TM1
-creado	2026-10-22
+creado	2026-10-23
 L	AR1N
 C	209	club-atletico-river-plate	CA River Plate
 J	1138089	Santiago Beltrán	41	Goalkeeper		11000000	22	191	left	1	1	negro	ninguno	L75 72.2 -> piel 1; pelo negro (frac 0.64); barba ratio 0.13 -> ninguno; ojos (51,57) d 28 conf 0.52	0
@@ -283,7 +283,7 @@ J	883670	Martín Luciano	3	Left-Back		100000	23	177	left	1	2	castano	ninguno	L75
 J	663118	Martín Ortega	6	Right-Back		1000000	27	181	right	1	2	negro	ninguno	L75 70.5 -> piel 2; pelo negro (frac 0.50); barba ratio 0.10 -> ninguno; ojos (49,52) d 30 conf 0.52	0
 J	649998	Alejo Montero	4	Right-Back		600000	28	178	right	1	4	castano	barba_muy_corta	L75 55.7 -> piel 4; pelo castano (frac 0.67); barba ratio 0.55 -> barba_muy_corta; ojos (54,57) d 28 conf 0.53	0
 J	338169	Franco Escobar	24	Right-Back		600000	31	180	right	1	1	negro	ninguno	L75 80.4 -> piel 1; pelo negro (frac 0.82); barba ratio 0.36 -> ninguno; ojos (52,61) d 30 conf 0.53	0
-J	1328380	Luca Regiardo	5	Defensive Midfield		4000000	19	179	right	1	2		ninguno	L75 69.3 -> piel 2; pelo null (frac 0.10); barba ratio 0.08 -> ninguno; ojos (49,64) d 30 conf 0.52	0
+J	1328380	Luca Regiardo	5	Defensive Midfield		4000000	20	179	right	1	2		ninguno	L75 69.3 -> piel 2; pelo null (frac 0.10); barba ratio 0.08 -> ninguno; ojos (49,64) d 30 conf 0.52	0
 J	1074966	Valentino Acuña	10	Defensive Midfield		1500000	20	177	left	1	3	negro	barba_muy_corta	L75 59.8 -> piel 3; pelo negro (frac 0.99); barba ratio 0.55 -> barba_muy_corta; ojos (57,62) d 28 conf 0.52	0
 J	842141	Rodrigo Herrera	26	Defensive Midfield		1500000	26	179	right	1	4	negro	ninguno	L75 46.5 -> piel 4; pelo negro (frac 0.40); barba ratio -0.05 -> ninguno; ojos (49,64) d 30 conf 0.51	0
 J	978973	Marcelo Esponda	29	Defensive Midfield		225000	23	179	right	1	1	negro	ninguno	L75 73.9 -> piel 1; pelo negro (frac 0.43); barba ratio 0.11 -> ninguno; ojos (42,51) d 28 conf 0.51	0
@@ -505,7 +505,7 @@ J	1123346	Fabricio López	-	Right-Back	Club Deportivo Armenio	400000	23	179	righ
 J	990429	Maximiliano Amarfil	15	Defensive Midfield	Club Cipolletti	2000000	24	174	right	1	2	negro	barba_muy_corta	L75 67.3 -> piel 2; pelo negro (frac 0.82); barba ratio 0.51 -> barba_muy_corta; ojos (52,61) d 30 conf 0.52	0
 J	459318	Iván Gómez	5	Defensive Midfield		1000000	29	167	right	1	1	negro	ninguno	L75 75.4 -> piel 1; pelo negro (frac 0.56); barba ratio 0.23 -> ninguno; ojos (49,58) d 30 conf 0.52	0
 J	1285240	Felipe Bussio	17	Defensive Midfield	CA Vélez Sarsfield	400000	22	178	right	1	1	negro	ninguno	L75 75.9 -> piel 1; pelo negro (frac 0.85); barba ratio 0.08 -> ninguno; ojos (49,61) d 30 conf 0.52	0
-J	1006239	Pablo Ferreira	26	Central Midfield		2000000	21	178	right	1	1	negro	ninguno	L75 75.2 -> piel 1; pelo negro (frac 0.65); barba ratio 0.08 -> ninguno; ojos (49,62) d 33 conf 0.53	0
+J	1006239	Pablo Ferreira	26	Central Midfield		2000000	22	178	right	1	1	negro	ninguno	L75 75.2 -> piel 1; pelo negro (frac 0.65); barba ratio 0.08 -> ninguno; ojos (49,62) d 33 conf 0.53	0
 J	565981	Martín Barrios	24	Central Midfield	Racing Club	750000	27	175	right	1	1	castano	ninguno	L75 81.5 -> piel 1; pelo castano (frac 0.65); barba ratio 0.23 -> ninguno; ojos (45,55) d 30 conf 0.53	0
 J	1236679	Santiago Dalmasso	27	Central Midfield	CA Boca Juniors	100000	22	183	right	1	1	negro	ninguno	L75 78.0 -> piel 1; pelo negro (frac 0.74); barba ratio 0.08 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	909349	Franco Zapiola	10	Attacking Midfield		2500000	25	176	left	1	2	negro	ninguno	L75 68.1 -> piel 2; pelo negro (frac 0.84); barba ratio 0.05 -> ninguno; ojos (49,61) d 30 conf 0.52	0
@@ -858,4 +858,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	6f8b91be6ad0a4f1dbe54572d5bc7a4c6173b980ee4811d2df7060743ff5c8ba
+hash	b0738ba510134e79fa0ed55aa69beded6142eb98c1ee0e4344b4fb45e5f0ab64
