@@ -4,3 +4,4 @@
 628366 piel=1 pelo=castano_claro barba=barba_corta ojos=3
 # Franco Vazquez (Belgrano, TM 76163): piel clara (piel 1)
 76163 piel=1
+1000666 piel=2 pelo=negro barba=ninguno ojos=2 # Facundo González (CA River Plate)
