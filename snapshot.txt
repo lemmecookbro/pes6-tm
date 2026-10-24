@@ -14,7 +14,7 @@ J	1000666	Facundo González	31	Centre-Back		300000	20	180	left	1	2	negro	ninguno
 J	553663	Francisco Ortega	3	Left-Back		7000000	27	177	left	1	2	negro	ninguno	L75 64.6 -> piel 2; pelo negro (frac 0.66); barba ratio 0.22 -> ninguno; ojos (49,62) d 33 conf 0.53	0
 J	60410	Marcos Acuña	21	Left-Back		1000000	34	172	left	1	2	negro	ninguno	L75 65.0 -> piel 2; pelo negro (frac 0.82); barba ratio 0.29 -> ninguno; ojos (48,57) d 28 conf 0.52	0
 J	402733	Gonzalo Montiel	29	Right-Back		4500000	29	175	right	1	2	castano	barba_muy_corta	L75 66.4 -> piel 2; pelo castano (frac 0.63); barba ratio 0.55 -> barba_muy_corta; ojos (59,56) d 35 conf 0.53	0
-J	339699	Giovanni González	20	Right-Back		2000000	32	173	right	1	1	negro	ninguno	L75 79.4 -> piel 1; pelo negro (frac 0.81); barba ratio 0.37 -> ninguno; ojos (52,59) d 33 conf 0.53	0
+J	339699	Giovanni González	20	Right-Back		2000000	32	173	right	1	1	castano_claro	barba_muy_corta	L75 79.4 -> piel 1; pelo negro (frac 0.81); barba ratio 0.37 -> ninguno; ojos (52,59) d 33 conf 0.53; correccion manual	2
 J	642758	Aníbal Moreno	6	Defensive Midfield		7000000	27	177	right	1	1	castano	barba_muy_corta	L75 77.1 -> piel 1; pelo castano (frac 0.28); barba ratio 0.59 -> barba_muy_corta; ojos (61,64) d 30 conf 0.52	0
 J	491701	Fausto Vera	15	Defensive Midfield	Clube Atlético Mineiro	4500000	26	180	right	1	4	negro	ninguno	L75 51.7 -> piel 4; pelo negro (frac 0.86); barba ratio 0.42 -> ninguno; ojos (51,59) d 28 conf 0.53	0
 J	1418875	Lucas Silva	44	Defensive Midfield		300000	19	179	right	1	2			; correccion manual	0
@@ -886,4 +886,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	2d2041c386030721ca6d01eeb7baa775b3d7360df73c99eccf5518f460084ce3
+hash	3a98b08283974da85e1baa3fc13a3afd5661fc3087bd4c5a7e0fbce93bbcde8c
