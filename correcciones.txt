@@ -2,3 +2,5 @@
 # piel=1..4  pelo=gris|negro|castano|castano_claro|rubio|pelirrojo  barba=ninguno|barba_muy_corta|barba_corta  ojos=2 (marrones) 3 (azules) 5 (verdes)
 # Lucas Beltran (River), segun la foto oficial: piel clara, pelo castano claro/dorado, barba corta cobriza, ojos azules
 628366 piel=1 pelo=castano_claro barba=barba_corta ojos=3
+# Franco Vazquez (Belgrano, TM 76163): piel clara (piel 1)
+76163 piel=1
