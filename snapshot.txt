@@ -542,7 +542,7 @@ J	1264273	Juan Velázquez	53	Left Midfield		1700000	21	177	left	1	2	negro	barba_
 J	230030	Lucas Zelarayán	10	Attacking Midfield		2800000	34	173	right	1	2	negro	barba_muy_corta	L75 71.4 -> piel 2; pelo negro (frac 0.74); barba ratio 0.46 -> barba_muy_corta; ojos (49,55) d 33 conf 0.53	0
 J	442679	Francisco González Metilli	11	Attacking Midfield		2000000	29	175	left	1	1	castano	ninguno	L75 72.5 -> piel 1; pelo castano (frac 0.97); barba ratio 0.32 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	1273494	Ramiro Hernandes	51	Attacking Midfield		2000000	21	172	right	1	2	castano	ninguno	L75 69.0 -> piel 2; pelo castano (frac 0.88); barba ratio 0.40 -> ninguno; ojos (49,58) d 30 conf 0.53	0
-J	76163	Franco Vázquez	20	Attacking Midfield		600000	37	187	left	1	4		ninguno	L75 53.6 -> piel 4; pelo null (frac 0.00); barba ratio 0.04 -> ninguno; ojos (57,65) d 28 conf 0.51	0
+J	76163	Franco Vázquez	20	Attacking Midfield		600000	37	187	left	1	1		ninguno	L75 53.6 -> piel 4; pelo null (frac 0.00); barba ratio 0.04 -> ninguno; ojos (57,65) d 28 conf 0.51; correccion manual	0
 J	1377440	Ramiro Tulián	15	Attacking Midfield		50000	18	177		1	1	negro	ninguno	L75 72.2 -> piel 1; pelo negro (frac 1.00); barba ratio 0.41 -> ninguno; ojos (52,58) d 30 conf 0.53	0
 J	1292347	Gonzalo Zelarayán	30	Attacking Midfield		25000	22	179	left	1	2	negro	ninguno	L75 67.9 -> piel 2; pelo negro (frac 0.98); barba ratio 0.42 -> ninguno; ojos (49,55) d 33 conf 0.53	0
 J	282544	Emiliano Rigoni	24	Right Winger		1000000	33	182	both	1	1	castano	ninguno	L75 72.3 -> piel 1; pelo castano (frac 0.63); barba ratio 0.42 -> ninguno; ojos (48,55) d 26 conf 0.51	0
@@ -858,4 +858,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	767450c901903c40810ee4fdd36060c56a3ca533e60bbdf9055aac66377f04a4
+hash	6a375dc1839940bae7abb337744860315a30d575fe8ce7ff73a0c005e7689bac
