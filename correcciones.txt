@@ -7,3 +7,4 @@
 1000666 piel=2 pelo=negro barba=ninguno ojos=2 # Facundo González (CA River Plate)
 1231221 piel=2 # Juan Cruz Meza (CA River Plate)
 1418875 piel=2 # Lucas Silva (CA River Plate)
+339699 piel=1 pelo=castano_claro barba=barba_muy_corta ojos=2 # Giovanni González (CA River Plate)
