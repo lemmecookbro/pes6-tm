@@ -91,7 +91,7 @@ J	567736	Ronaldo Martínez	77	Centre-Forward	CA Talleres	4000000	30	178	right	1	
 J	1456581	Thiago Aguirre	39	Centre-Forward		1000000	17	0	right	0	0				0
 J	1379348	Dilan Godoy	15	Centre-Forward		700000	20	175	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.72); barba ratio 0.41 -> ninguno; ojos (45,66) d 26 conf 0.51	0
 C	3938	club-atletico-talleres	CA Talleres
-F	3938	4-2-3-1	4889785	2026-10-17	337600:32:80:40	909736:6:63:28	237051:4:63:52.5	376858:23:61:7.5	670566:20:61:73	357956:8:43:52	909737:5:43:28	1265841:10:23:40	697056:11:18:15	645955:37:18:65	812625:9:3:40
+F	3938	4-2-3-1	4889805	2026-10-24	337600:32:80:40	237051:4:63:28	909736:6:63:52.5	1371519:3:61:7.5	670566:20:61:73	357956:8:43:52	909737:5:43:28	1265841:10:23:40	697056:11:18:15	645955:37:18:65	812625:9:3:40
 J	337600	Ezequiel Unsain	32	Goalkeeper		2000000	31	188	right	1	2	castano	ninguno	L75 67.3 -> piel 2; pelo castano (frac 0.49); barba ratio 0.18 -> ninguno; ojos (53,53) d 26 conf 0.52	0
 J	1197308	Santino Barbi	1	Goalkeeper		200000	21	191	right	1	1	castano	ninguno	L75 73.8 -> piel 1; pelo castano (frac 0.71); barba ratio 0.44 -> ninguno; ojos (52,52) d 30 conf 0.52	0
 J	1106217	Santiago Fernández	44	Centre-Back		4500000	21	181	right	1	1	castano	ninguno	L75 81.1 -> piel 1; pelo castano (frac 0.73); barba ratio 0.16 -> ninguno; ojos (54,54) d 28 conf 0.52	0
@@ -122,7 +122,7 @@ J	1296331	Emiliano Chiavassa	36	Right Winger		25000	20	169	left	1	3	negro	ningun
 J	812625	Agustín Álvarez	9	Centre-Forward	US Sassuolo	2000000	25	177	right	1	1		barba_muy_corta	L75 75.0 -> piel 1; pelo null (frac 0.04); barba ratio 0.49 -> barba_muy_corta; ojos (40,65) d 28 conf 0.52	0
 J	1280274	Valentín Dávila	49	Centre-Forward		1500000	19	185	right	1	2	negro	ninguno	L75 64.7 -> piel 2; pelo negro (frac 0.71); barba ratio 0.09 -> ninguno; ojos (53,50) d 26 conf 0.53	0
 C	1775	club-atletico-san-lorenzo-de-almagro	CA San Lorenzo de Almagro
-F	1775	3-5-2	4889788	2026-10-18	282684:25:80:40	348273:19:62:40	364586:2:61:15	486210:16:61:65	1282698:3:25:12	966316:32:25:68	275614:24:33:40	728221:38:29:54	1296404:10:29:26	1296393:14:2:50	690727:29:2:30
+F	1775	3-4-1-2	4889802	2026-10-25	282684:25:80:40	348273:19:62:40	364586:2:61:15	486210:16:61:65	1282698:3:34:15	275614:24:34:65	868501:62:43:52	1296404:10:43:30	728221:38:22:40	690727:29:2:50	636783:9:2:30
 J	282684	José Devecchi	25	Goalkeeper		400000	31	189	right	1	2	negro	ninguno	L75 66.0 -> piel 2; pelo negro (frac 0.60); barba ratio 0.01 -> ninguno; ojos (51,54) d 28 conf 0.51	0
 J	362358	Facundo Altamirano	20	Goalkeeper		375000	30	189	right	1	3	negro	barba_muy_corta	L75 62.3 -> piel 3; pelo negro (frac 0.73); barba ratio 0.61 -> barba_muy_corta; ojos (51,59) d 28 conf 0.53	0
 J	987849	Mateo Clemente	1	Goalkeeper		-1	24	184	right	1	3	negro	ninguno	L75 61.6 -> piel 3; pelo negro (frac 0.71); barba ratio 0.16 -> ninguno; ojos (49,61) d 30 conf 0.52	0
@@ -186,7 +186,7 @@ J	598769	Adrián Martínez	9	Centre-Forward		2000000	34	176	left	1	2	negro	barba
 J	720294	Lautaro Díaz	32	Centre-Forward	Cruzeiro Esporte Clube	1500000	28	181	right	1	3	negro	barba_corta	L75 62.9 -> piel 3; pelo negro (frac 0.83); barba ratio 0.86 -> barba_corta; ojos (45,61) d 30 conf 0.51	0
 J	1014363	Elías Torres	22	Centre-Forward		850000	25	186	right	1	3	negro	barba_muy_corta	L75 57.6 -> piel 3; pelo negro (frac 0.66); barba ratio 0.49 -> barba_muy_corta; ojos (49,52) d 33 conf 0.53	0
 C	333	club-atletico-lanus	CA Lanús
-F	333	4-2-3-1	4889791	2026-10-17	323918:26:80:40	402627:13:63:28	116968:24:63:52.5	867621:6:61:7.5	355900:33:61:73	1294453:17:43:52	469762:30:43:28	511436:16:18:65	829381:77:18:15	84535:11:23:40	1065388:20:3:40
+F	333	4-2-3-1	4889799	2026-10-24	323918:26:80:40	402627:13:63:28	116968:24:63:52.5	867621:6:61:7.5	355900:33:61:73	469762:30:43:52	1294453:17:43:28	511436:16:18:65	829381:77:18:15	84535:11:23:40	1065388:20:3:40
 J	323918	Nahuel Losada	26	Goalkeeper		3000000	33	188	right	1	1	negro	ninguno	L75 73.2 -> piel 1; pelo negro (frac 0.64); barba ratio 0.07 -> ninguno; ojos (49,52) d 30 conf 0.52	0
 J	401587	Franco Petroli	1	Goalkeeper		1500000	28	188	left	1	4	negro	barba_muy_corta	L75 53.8 -> piel 4; pelo negro (frac 0.83); barba ratio 0.59 -> barba_muy_corta; ojos (55,55) d 30 conf 0.52	0
 J	402627	José Canale	13	Centre-Back		2200000	30	187	left	1	2	negro	ninguno	L75 67.2 -> piel 2; pelo negro (frac 0.46); barba ratio -0.34 -> ninguno; ojos (52,58) d 30 conf 0.51	0
@@ -213,7 +213,7 @@ J	1119045	Benjamín Acosta	38	Right Winger		50000	20	163	right	1	2	castano	ningu
 J	1258292	Yoshan Valois	19	Centre-Forward		3000000	22	187	right	1	4	castano	barba_muy_corta	L75 50.5 -> piel 4; pelo castano (frac 0.40); barba ratio 0.78 -> barba_muy_corta; ojos (49,56) d 35 conf 0.52	0
 J	1065388	Allan Wlk	20	Centre-Forward		2500000	23	186	right	1	2	negro	ninguno	L75 70.0 -> piel 2; pelo negro (frac 0.78); barba ratio 0.20 -> ninguno; ojos (49,59) d 33 conf 0.53	0
 C	11831	club-atletico-tigre	Club Atlético Tigre
-F	11831	4-4-2	4889797	2026-10-17	826527:12:80:40	360797:2:63:28	865491:20:63:52.5	289117:24:61:7.5	696730:8:61:73	910641:5:35:53	1174943:10:25:12	1249779:27:35:27	1379292:50:25:68	1103986:30:2:50	833130:29:2:30
+F	11831	4-4-2	4889808	2026-10-24	826527:12:80:40	865491:20:63:28	360797:2:63:52.5	289117:24:61:7.5	696730:8:61:73	910641:5:35:53	1249779:27:35:27	1174943:10:25:12	1000687:22:25:68	1103986:30:2:50	833130:29:2:30
 J	826527	Felipe Zenobio	12	Goalkeeper		3500000	26	183	right	1	2	negro	barba_muy_corta	L75 69.3 -> piel 2; pelo negro (frac 0.41); barba ratio 0.78 -> barba_muy_corta; ojos (50,50) d 26 conf 0.53	0
 J	576023	Lautaro Morales	26	Goalkeeper	CA Lanús	550000	26	187	right	1	3		ninguno	L75 60.3 -> piel 3; pelo null (frac 0.01); barba ratio 0.35 -> ninguno; ojos (55,74) d 26 conf 0.52	0
 J	865491	Alan Barrionuevo	20	Centre-Back		1800000	29	188	right	1	2	castano	barba_muy_corta	L75 68.1 -> piel 2; pelo castano (frac 0.65); barba ratio 0.57 -> barba_muy_corta; ojos (48,51) d 28 conf 0.53	0
@@ -278,7 +278,7 @@ J	608469	Adolfo Gaich	19	Centre-Forward		1000000	27	190	right	1	1	castano	ningun
 J	184672	Guido Carrillo	9	Centre-Forward		300000	35	187	right	1	2	negro	ninguno	L75 71.1 -> piel 2; pelo negro (frac 0.69); barba ratio 0.14 -> ninguno; ojos (49,62) d 33 conf 0.52	0
 J	193782	Lucas Alario	27	Centre-Forward		250000	34	185	right	1	2	rubio	ninguno	L75 72.0 -> piel 2; pelo rubio (frac 0.14); barba ratio 0.15 -> ninguno; ojos (49,58) d 30 conf 0.51	0
 C	1286	club-atletico-newells-old-boys	CA Newell&#039;s Old Boys
-F	1286	4-3-3	4889789	2026-10-20	1229028:30:80:40	522204:16:63:28	840764:25:63:52.5	338169:24:61:7.5	663118:6:61:73	842141:26:28:27	1377866:20:28:53	1241453:19:39:40	477458:7:10:65	866059:32:10:15	454625:9:3:40
+F	1286	4-2-3-1	4889802	2026-10-25	1229028:30:80:40	840764:25:63:52.5	522204:16:63:28	1139402:28:61:7.5	663118:6:61:73	1328380:5:43:52	1241453:19:43:28	1377866:20:23:40	477458:7:18:65	866059:32:18:15	454625:9:3:40
 J	1229028	Josué Reinatti	30	Goalkeeper		2500000	23	188	right	1	3	castano	ninguno	L75 61.7 -> piel 3; pelo castano (frac 0.47); barba ratio 0.20 -> ninguno; ojos (49,52) d 30 conf 0.53	0
 J	54330	Gabriel Arias	21	Goalkeeper		200000	39	189	right	1	1	negro	barba_corta	L75 72.3 -> piel 1; pelo negro (frac 0.71); barba ratio 0.98 -> barba_corta; ojos (48,54) d 28 conf 0.52	0
 J	225963	Lautaro Giannetti	17	Centre-Back		1200000	32	185	right	1	2	negro	ninguno	L75 69.2 -> piel 2; pelo negro (frac 0.78); barba ratio 0.35 -> ninguno; ojos (49,55) d 33 conf 0.52	0
@@ -312,7 +312,7 @@ J	454625	Matías Cóccaro	9	Centre-Forward		2000000	28	179	right	1	1	castano	bar
 J	402079	Ignacio Ramírez	99	Centre-Forward		1200000	29	180	right	1	3	negro	ninguno	L75 62.9 -> piel 3; pelo negro (frac 0.62); barba ratio 0.17 -> ninguno; ojos (52,52) d 30 conf 0.53	0
 J	1329650	Francisco Scarpeccio	36	Centre-Forward		150000	20	189	right	0	0				0
 C	2402	defensa-y-justicia	Defensa y Justicia
-F	2402	4-2-3-1	4889786	2026-10-17	592427:1:80:40	401576:21:63:28	706562:29:63:52.5	1290950:30:61:7.5	1337257:28:61:73	662746:8:43:28	356089:19:23:40	1173444:26:18:65	1074965:22:43:52	581321:24:18:15	131840:9:3:40
+F	2402	4-2-3-1	4889805	2026-10-24	592427:1:80:40	706562:29:63:52.5	401576:21:63:28	1290950:30:61:7.5	1337257:28:61:73	662746:8:43:52	1253317:15:43:28	356089:19:23:40	1173444:26:18:65	581321:24:18:15	131840:9:3:40
 J	592427	Matías Borgogno	1	Goalkeeper	CA San Martín (San Juan)	2800000	28	188	right	1	2	negro	ninguno	L75 66.9 -> piel 2; pelo negro (frac 0.72); barba ratio 0.25 -> ninguno; ojos (49,49) d 30 conf 0.52	0
 J	844790	Lautaro Amadé	36	Goalkeeper		300000	26	193	right	1	2	negro	ninguno	L75 67.6 -> piel 2; pelo negro (frac 1.00); barba ratio 0.28 -> ninguno; ojos (49,61) d 30 conf 0.52	0
 J	706562	Damián Fernández	29	Centre-Back		1800000	25	179	right	1	4	negro	ninguno	L75 53.3 -> piel 4; pelo negro (frac 0.54); barba ratio -0.00 -> ninguno; ojos (49,58) d 30 conf 0.52	0
@@ -344,7 +344,7 @@ J	1324736	Tiziano Perrotta	11	Centre-Forward	Elche CF	3500000	19	180	left	1	1	ca
 J	1142432	Tomás Pérez	7	Centre-Forward	Racing Club	300000	20	181	right	1	1		ninguno	L75 74.0 -> piel 1; pelo null (frac 0.09); barba ratio 0.26 -> ninguno; ojos (45,66) d 35 conf 0.51	0
 J	131840	Leandro Fernández	9	Centre-Forward		300000	35	179	right	1	3	castano	barba_muy_corta	L75 62.5 -> piel 3; pelo castano (frac 0.58); barba ratio 0.52 -> barba_muy_corta; ojos (59,54) d 28 conf 0.51	0
 C	2063	club-atletico-huracan	CA Huracán
-F	2063	4-2-3-1	4889795	2026-10-16	77127:1:80:40	1225847:35:63:28	610248:6:63:52.5	674391:25:61:7.5	503348:2:61:73	458047:5:43:28	125907:8:23:40	1299661:24:18:15	322696:15:43:52	975689:7:18:65	360412:9:3:40
+F	2063	4-3-3	4889809	2026-10-25	77127:1:80:40	1225847:35:63:28	610248:6:63:52.5	674391:25:61:7.5	503348:2:61:73	458047:5:39:40	471657:20:28:27	322696:15:28:53	975689:7:10:65	866061:17:10:15	360412:9:3:40
 J	839030	Sebastián Meza	32	Goalkeeper		450000	26	180	right	1	2	negro	ninguno	L75 69.9 -> piel 2; pelo negro (frac 0.59); barba ratio 0.08 -> ninguno; ojos (49,62) d 33 conf 0.51	0
 J	77127	Hernán Galíndez	1	Goalkeeper		300000	39	189	right	1	1	negro	barba_muy_corta	L75 77.0 -> piel 1; pelo negro (frac 0.48); barba ratio 0.71 -> barba_muy_corta; ojos (46,55) d 33 conf 0.52	0
 J	1157436	Nazareno Durán	27	Goalkeeper		-1	22	189	right	1	1	negro	ninguno	L75 76.3 -> piel 1; pelo negro (frac 0.82); barba ratio 0.23 -> ninguno; ojos (51,59) d 28 conf 0.52	0
@@ -407,7 +407,7 @@ J	1269429	Diego Porcel	47	Centre-Forward		800000	21	177	right	1	1	negro	ninguno	
 J	1309716	Alan Alcaraz	35	Centre-Forward		200000	17	177		1	3	castano	ninguno	L75 58.4 -> piel 3; pelo castano (frac 0.82); barba ratio -0.03 -> ninguno; ojos (49,65) d 33 conf 0.52	0
 J	916601	Ryoga Kida	34	Centre-Forward	Nagoya Grampus	100000	21	176		0	0				0
 C	1418	club-atletico-rosario-central	CA Rosario Central
-F	1418	4-2-3-1	4889796	2026-10-18	284342:23:80:40	748601:13:63:28	1297993:46:63:52.5	847023:3:61:7.5	565194:32:61:73	662740:20:43:52	465817:88:43:28	1213079:26:18:65	491553:8:18:15	45320:11:23:40	504254:22:3:40
+F	1418	4-2-3-1	4889809	2026-10-25	284342:23:80:40	1297993:46:63:52.5	748601:13:63:28	847023:3:61:7.5	565194:32:61:73	741685:5:43:28	662740:20:43:52	465817:88:18:65	491553:8:18:15	45320:11:23:40	504254:22:3:40
 J	284342	Conan Ledesma	23	Goalkeeper	CA River Plate	1500000	33	183	right	1	2	castano	barba_muy_corta	L75 69.8 -> piel 2; pelo castano (frac 0.61); barba ratio 0.62 -> barba_muy_corta; ojos (48,54) d 28 conf 0.53	0
 J	236734	Axel Werner	1	Goalkeeper	Elche CF	400000	30	191	right	1	1	castano	ninguno	L75 75.5 -> piel 1; pelo castano (frac 1.00); barba ratio 0.38 -> ninguno; ojos (51,48) d 28 conf 0.52	0
 J	1297991	Damián Fernández	38	Goalkeeper		-1	22	188	right	1	1	negro	ninguno	L75 75.4 -> piel 1; pelo negro (frac 0.85); barba ratio 0.41 -> ninguno; ojos (51,57) d 28 conf 0.54	0
@@ -439,7 +439,7 @@ J	568546	Tomás Badaloni	16	Centre-Forward		4000000	26	187	left	1	3	castano	ning
 J	504254	Enzo Copetti	22	Centre-Forward		2200000	30	180	right	1	2	castano	ninguno	L75 69.2 -> piel 2; pelo castano (frac 0.41); barba ratio 0.11 -> ninguno; ojos (48,45) d 28 conf 0.52	0
 J	30825	Marco Ruben	9	Centre-Forward		25000	39	179	right	1	4		ninguno	L75 55.4 -> piel 4; pelo null (frac 0.06); barba ratio 0.36 -> ninguno; ojos (50,61) d 26 conf 0.52	0
 C	830	club-atletico-banfield	CA Banfield
-F	830	4-3-3	4889798	2026-10-17	90800:50:80:40	1281969:2:63:28	941511:6:63:52.5	985269:27:61:7.5	997374:4:61:73	1301391:5:39:40	1115868:20:28:27	1232512:10:28:53	983867:40:10:15	1228198:18:10:65	252209:9:3:40
+F	830	4-3-3	4889799	2026-10-24	90800:50:80:40	1281969:2:63:28	941511:6:63:52.5	985269:27:61:7.5	997374:4:61:73	1301391:5:39:40	1115868:20:28:27	1232512:10:28:53	983867:40:10:15	1228198:18:10:65	252209:9:3:40
 J	881009	Gino Santilli	25	Goalkeeper		800000	24	191	right	1	2	negro	ninguno	L75 69.1 -> piel 2; pelo negro (frac 0.77); barba ratio 0.05 -> ninguno; ojos (49,55) d 33 conf 0.53	0
 J	90800	Diego Rodríguez	50	Goalkeeper		200000	37	184	left	1	2	castano	ninguno	L75 67.8 -> piel 2; pelo castano (frac 0.40); barba ratio 0.15 -> ninguno; ojos (64,54) d 25 conf 0.51	0
 J	1301444	Joaquín Molina	31	Goalkeeper		-1	22	180		1	1	negro	ninguno	L75 73.8 -> piel 1; pelo negro (frac 0.63); barba ratio 0.15 -> ninguno; ojos (49,59) d 33 conf 0.52	0
@@ -471,7 +471,7 @@ J	657755	Alexander Machado	22	Centre-Forward	CA Peñarol	400000	24	181	left	1	2	
 J	343163	Federico Anselmo	30	Centre-Forward		100000	32	186	right	1	1	negro	ninguno	L75 77.0 -> piel 1; pelo negro (frac 0.57); barba ratio 0.04 -> ninguno; ojos (51,48) d 28 conf 0.53	0
 J	1029496	Matías Hernández	28	Centre-Forward	CA San Lorenzo de Almagro	50000	21	178		1	3	castano	ninguno	L75 63.5 -> piel 3; pelo castano (frac 0.53); barba ratio 0.33 -> ninguno; ojos (51,51) d 28 conf 0.53	0
 C	14554	club-atletico-tucuman	Club Atlético Tucumán
-F	14554	4-1-4-1	4889796	2026-10-18	552636:1:80:40	1244188:26:63:52.5	1327411:36:63:28	615255:32:61:7.5	322843:24:61:73	1224637:19:43:40	1098440:31:23:30	1015626:10:23:50	140214:9:3:40	249789:14:18:15	633048:18:18:65
+F	14554	4-1-4-1	4889808	2026-10-24	552636:1:80:40	1244188:26:63:52.5	1327411:36:63:28	615255:32:61:7.5	322843:24:61:73	1224637:19:43:40	457666:11:18:65	1098440:31:23:30	1015626:10:23:50	756809:23:18:15	633048:18:3:40
 J	552636	Luis Ingolotti	1	Goalkeeper		2000000	26	185	right	1	2	negro	ninguno	L75 68.4 -> piel 2; pelo negro (frac 0.68); barba ratio 0.17 -> ninguno; ojos (48,57) d 28 conf 0.52	0
 J	534625	Tomás Durso	25	Goalkeeper		500000	27	185	right	1	1	castano	ninguno	L75 74.9 -> piel 1; pelo castano (frac 0.55); barba ratio 0.19 -> ninguno; ojos (51,51) d 28 conf 0.52	0
 J	1068088	Patricio Albornoz	12	Goalkeeper		-1	26	193	right	1	1	castano	ninguno	L75 77.2 -> piel 1; pelo castano (frac 0.45); barba ratio 0.15 -> ninguno; ojos (55,58) d 30 conf 0.52	0
@@ -504,7 +504,7 @@ J	1327450	Gabriel Abeldaño	35	Centre-Forward		225000	21	178	right	1	2	negro	nin
 J	249789	Alexis Canelo	14	Centre-Forward		150000	34	178	right	1	4	negro	barba_corta	L75 52.2 -> piel 4; pelo negro (frac 0.76); barba ratio 0.99 -> barba_corta; ojos (54,57) d 28 conf 0.52	0
 J	1103930	Manuel Brondo	30	Centre-Forward	AA Argentinos Juniors	25000	24	178	right	1	2	negro	ninguno	L75 70.2 -> piel 2; pelo negro (frac 0.62); barba ratio 0.18 -> ninguno; ojos (48,59) d 28 conf 0.53	0
 C	928	club-atletico-platense	Club Atlético Platense
-F	928	4-2-3-1	4889791	2026-10-17	570470:30:80:40	104326:31:63:28	1197773:34:63:52.5	984072:3:61:7.5	866094:25:61:73	459318:5:43:52	565981:24:43:28	909349:10:18:15	431737:18:23:40	991849:43:18:65	690718:79:3:40
+F	928	4-2-3-1	4889800	2026-10-23	570470:30:80:40	104326:31:63:28	1197773:34:63:52.5	984072:3:61:7.5	866094:25:61:73	459318:5:43:52	565981:24:43:28	431737:18:23:40	847283:33:18:15	991849:43:18:65	660338:99:3:40
 J	570470	Juan Pablo Cozzani	30	Goalkeeper		3500000	28	184	right	1	1	castano	barba_muy_corta	L75 83.3 -> piel 1; pelo castano (frac 0.68); barba ratio 0.46 -> barba_muy_corta; ojos (52,55) d 33 conf 0.52	0
 J	923940	Nicolás Sumavil	22	Goalkeeper		400000	26	185	right	1	1	negro	ninguno	L75 78.7 -> piel 1; pelo negro (frac 0.47); barba ratio 0.37 -> ninguno; ojos (52,52) d 30 conf 0.53	0
 J	660734	Brian Bustos	1	Goalkeeper		375000	30	185	right	1	1	negro	ninguno	L75 77.9 -> piel 1; pelo negro (frac 0.98); barba ratio 0.06 -> ninguno; ojos (48,62) d 28 conf 0.52	0
@@ -569,7 +569,7 @@ J	333921	Nicolás Fernández	22	Centre-Forward		3000000	30	166	right	1	2	negro	n
 J	334586	Lucas Passerini	9	Centre-Forward		1500000	32	189	right	1	2	negro	barba_muy_corta	L75 66.3 -> piel 2; pelo negro (frac 0.73); barba ratio 0.53 -> barba_muy_corta; ojos (45,55) d 30 conf 0.53	0
 J	1293765	Lautaro Gutiérrez	37	Centre-Forward		250000	20	185	right	0	0				0
 C	1106	club-de-gimnasia-y-esgrima-la-plata	Club de Gimnasia y Esgrima La Plata
-F	1106	4-4-2	4889795	2026-10-16	652707:15:80:40	578737:21:63:28	284321:13:63:52.5	438927:24:61:7.5	1046802:25:61:73	836518:5:35:53	850433:18:35:27	50669:8:25:68	238448:17:25:12	480778:32:2:50	732442:29:2:30
+F	1106	4-3-1-2	4889810	2026-10-23	652707:15:80:40	284321:13:63:52.5	578737:21:63:28	438927:24:61:7.5	1046802:25:61:73	850433:18:42:15	836518:5:42:40	50669:8:22:40	238448:17:42:65	732442:29:2:50	480778:32:2:30
 J	660280	Nelson Insfrán	23	Goalkeeper		2000000	31	179	right	1	1	castano	barba_muy_corta	L75 73.6 -> piel 1; pelo castano (frac 0.57); barba ratio 0.69 -> barba_muy_corta; ojos (55,49) d 33 conf 0.52	0
 J	652707	Harlen Castillo	15	Goalkeeper		350000	33	188	right	1	4		barba_corta	L75 41.9 -> piel 4; pelo null (frac 0.05); barba ratio 0.87 -> barba_corta; ojos (36,61) d 30 conf 0.52	0
 J	1085432	Julián Kadijevic	27	Goalkeeper		50000	22	186	right	1	2	negro	ninguno	L75 70.7 -> piel 2; pelo negro (frac 0.70); barba ratio 0.33 -> ninguno; ojos (52,61) d 30 conf 0.52	0
@@ -611,7 +611,7 @@ J	1130336	Yuri Casermeiro	17	Centre-Back		175000	24	190	right	0	0				0
 J	984882	Juan Pablo Pignani	42	Centre-Back	Club Atlético Platense	125000	25	190	right	1	1	castano	ninguno	L75 88.8 -> piel 1; pelo castano (frac 0.86); barba ratio 0.08 -> ninguno; ojos (53,55) d 26 conf 0.52	0
 J	1402284	Nicolás Garrido	32	Centre-Back	CA Independiente II	50000	21	0	left	1	2	negro	ninguno	L75 65.9 -> piel 2; pelo negro (frac 0.80); barba ratio 0.24 -> ninguno; ojos (49,55) d 30 conf 0.52	0
 J	1170351	Lucas Bernabéu	26	Centre-Back		-1	22	190	left	0	0				0
-J	567663	Darío Cáceres	23	Left-Back		200000	28	174	left	0	0				0
+J	567663	Darío Cáceres	23	Left-Back		200000	28	176	left	0	0				0
 J	642521	Leonardo Marchi	3	Left-Back		25000	30	180	left	1	1	castano	barba_muy_corta	L75 76.4 -> piel 1; pelo castano (frac 0.17); barba ratio 0.54 -> barba_muy_corta; ojos (59,51) d 28 conf 0.53	0
 J	568551	Santiago Moyano	33	Right-Back		600000	29	175	right	1	3		barba_muy_corta	L75 58.1 -> piel 3; pelo null (frac 0.03); barba ratio 0.73 -> barba_muy_corta; ojos (51,68) d 28 conf 0.51	0
 J	880025	Fernando Martínez	20	Right-Back		400000	26	173	right	0	0				0
@@ -820,7 +820,7 @@ J	364945	Eric Ramírez	43	Centre-Forward		600000	30	170	right	1	1	castano	ningun
 J	422698	Cristian Tarragona	25	Centre-Forward		200000	35	176	right	1	3	castano	ninguno	L75 60.7 -> piel 3; pelo castano (frac 0.60); barba ratio 0.29 -> ninguno; ojos (48,54) d 28 conf 0.52	0
 J	1161766	Valentín Cerrudo	38	Centre-Forward		25000	20	186	right	1	3	negro	ninguno	L75 59.8 -> piel 3; pelo negro (frac 0.87); barba ratio 0.16 -> ninguno; ojos (46,62) d 33 conf 0.52	0
 C	12454	club-atletico-sarmiento-junin-	CA Sarmiento (Junin)
-F	12454	3-4-2-1	4889794	2026-10-20	1157864:12:80:40	322190:3:62:40	737892:44:61:15	65072:2:61:65	309388:16:43:52	613095:15:43:30	1108153:8:34:65	1144681:21:20:50	1289854:10:20:30	978967:19:34:15	567737:27:3:40
+F	12454	3-5-2	4889810	2026-10-23	1157864:12:80:40	65072:2:62:40	737892:44:61:15	322190:3:61:65	309388:16:33:55	613095:15:33:25	1108153:8:27:70	1144681:21:27:10	978967:19:36:40	485880:24:2:50	567737:27:2:30
 J	1157864	Thyago Ayala	12	Goalkeeper		700000	25	188	right	1	2	negro	ninguno	L75 68.0 -> piel 2; pelo negro (frac 0.63); barba ratio -0.07 -> ninguno; ojos (51,54) d 28 conf 0.52	0
 J	260740	Iván Arboleda	1	Goalkeeper		300000	30	185	right	1	4	negro	barba_muy_corta	L75 46.1 -> piel 4; pelo negro (frac 0.44); barba ratio 0.76 -> barba_muy_corta; ojos (42,59) d 33 conf 0.52	0
 J	737892	Renzo Orihuela	44	Centre-Back	Montevideo City Torque	800000	25	184	right	1	1	castano	ninguno	L75 73.4 -> piel 1; pelo castano (frac 0.57); barba ratio 0.31 -> ninguno; ojos (52,52) d 30 conf 0.52	0
@@ -886,4 +886,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	4488ebc33b32aaa16efca9342edb2d43a1e82d607cd30b5ce1974da2acc9a091
+hash	9d2e37ff22b07bbaa4f4a7c06f608eacb62af93face9148d3b456863de82581b
