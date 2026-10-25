@@ -1,5 +1,5 @@
 PES6TM1
-creado	2026-10-24
+creado	2026-10-25
 L	AR1N
 C	209	club-atletico-river-plate	CA River Plate
 F	209	4-1-3-2	4889792	2026-10-19	1138089:41:80:40	373373:28:63:28	54781:30:63:52.5	553663:3:61:7.5	402733:29:61:73	642758:6:43:40	1384266:50:18:65	893850:26:18:15	576028:23:23:40	266807:10:2:50	628366:18:2:30
@@ -886,4 +886,4 @@ J	989579	Tomás González	21	Centre-Forward	CA Unión (Santa Fe)	500000	23	168	r
 J	438926	Nicolás Benegas	9	Centre-Forward		450000	30	186	right	1	3	negro	ninguno	L75 59.9 -> piel 3; pelo negro (frac 0.75); barba ratio 0.13 -> ninguno; ojos (49,61) d 30 conf 0.53	0
 J	851121	Agustín Graneros	29	Centre-Forward		450000	30	180	right	1	3	castano	ninguno	L75 62.6 -> piel 3; pelo castano (frac 0.46); barba ratio 0.21 -> ninguno; ojos (40,54) d 28 conf 0.51	0
 J	900895	Gonzalo Flores	32	Centre-Forward	Club Almirante Brown	200000	24	175	right	1	3		barba_muy_corta	L75 60.4 -> piel 3; pelo null (frac 0.01); barba ratio 0.57 -> barba_muy_corta; ojos (32,63) d 26 conf 0.51	0
-hash	9fb8833b369752ed45b6b9aad0eb8a8fd9feeb6e5eb5032e80f3bdc7d7aed2a6
+hash	4488ebc33b32aaa16efca9342edb2d43a1e82d607cd30b5ce1974da2acc9a091
