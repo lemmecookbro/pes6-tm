@@ -11,3 +11,4 @@
 1384266 piel=1 pelo=negro barba=ninguno ojos=2 # Tobías Andrada (CA River Plate)
 493000 piel=3 pelo=negro peinado=militar:1:1:1 # Sebastián Villa (CA Boca Juniors)
 1000688 piel=2 pelo=negro barba=ninguno peinado=muy_corto_2:1:8 # Agustín Ruberto (CA River Plate)
+423436 piel=1 pelo=rubio barba=barba_muy_corta ojos=3 peinado=rizado_2:2:2:1 # Santiago Ascacíbar (CA Boca Juniors)
