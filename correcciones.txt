@@ -9,3 +9,4 @@
 1418875 piel=2 # Lucas Silva (CA River Plate)
 339699 piel=1 pelo=castano_claro barba=barba_muy_corta ojos=2 # Giovanni González (CA River Plate)
 1384266 piel=1 pelo=negro barba=ninguno ojos=2 # Tobías Andrada (CA River Plate)
+493000 piel=3 pelo=negro peinado=militar:1:1:1 # Sebastián Villa (CA Boca Juniors)
